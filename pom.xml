@@ -6,7 +6,7 @@
 
   <groupId>swiggy</groupId>
   <artifactId>biryani-offers</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>v1</version>
 
   <name>Camel route using CDI in a standalone Java Container</name>
